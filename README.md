@@ -22,5 +22,9 @@ https://github.com/nooperpudd/ctpwrapper
 -----
 使用Python API库, 如果自行编译库文件请参考
 
+注意
+=====
+http://www.simnow.com.cn
+可以快速申请仿真帐号，跑起来。程序里自带帐号被修改过，不共享
 
 
